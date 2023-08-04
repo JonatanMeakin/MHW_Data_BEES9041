@@ -1,0 +1,27 @@
+Physical dataset : For data extracted from "IMOS - SRS - SST - L3S - Single Sensor - 1 day - night time - Australia"
+
+SST = Seas Surface temperature in °C
+lon = longitude in °E
+lat = latitude in °N
+time = time in days (since 1990)
+
+
+Biological dataset : For data extracted from "IMOS - SRS - MODIS - 01 day - Chlorophyll-a concentration (OC3 model)"
+
+chl_oc3 = chlorophyll-a in g/m3
+time = time in days (since 1990)
+longitude = longitude in °E
+latitude = latitude in °N
+
+
+Chemical dataset : For data extracted from "IMOS - combined geochemical parameters (reference stations)"
+
+SampleTime_Local = time at which sample was measured in Maria Island, Tasmania
+latitude = latitude in °N
+longitude = longitude in °E
+SampleDepth = depth at which sample was take in m
+SampleID = sample reference number
+Oxygen_umolL = oxygen concentration in umol/L
+Nitrate_umolL = nitrate concentration in umol/L
+Phosphate_umolL = phosphate concentration in umol/L
+Silicate_umolL = silicate concentration in umol/L
